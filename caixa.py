@@ -3,6 +3,7 @@
 # Disciplina: Projeto Integrador Extensionista – ADS 1
 # Semestre Letivo: 1º Termo – 2025
 
+
 Produtos = {}
 Itens = []
 tot = 0
