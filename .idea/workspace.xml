@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="483c0007-762a-4a98-9c03-ba1eb313796d" name="Changes" comment="02">
-      <change afterPath="$PROJECT_DIR$/Desafios/Ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/PDFs/Exercícios.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/PDFs/exercicos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/caixa.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExADS/caixa.py" afterDir="false" />
-    </list>
+    <list default="true" id="483c0007-762a-4a98-9c03-ba1eb313796d" name="Changes" comment="03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,18 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Ex001.executor": "Run",
-    "Python.caixa.executor": "Run",
-    "Python.praticar.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caixa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.praticar.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jhowzera\PycharmProjects\CursoemVideo\Praticas-Python\Desafios\PDFs" />
@@ -71,7 +65,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+        <option value="bundled-python-sdk-16a10d8b274e-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.21735.39" />
       </set>
     </attachedChunks>
   </component>
@@ -107,12 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1750172875867</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="03">
+      <option name="closed" value="true" />
+      <created>1750440979281</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750440979281</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01" />
     <MESSAGE value="02" />
-    <option name="LAST_COMMIT_MESSAGE" value="02" />
+    <MESSAGE value="03" />
+    <option name="LAST_COMMIT_MESSAGE" value="03" />
   </component>
 </project>
