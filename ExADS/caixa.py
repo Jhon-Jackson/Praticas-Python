@@ -7,6 +7,9 @@
 Produtos = {}
 Itens = []
 tot = 0
+print('-*' * 30)
+print(f'{'Mercado LeveMais PaquePouco':^50}')
+print('-*'*30)
 while True:
     n = 1
     # trecho para fazer loop dos produtos e preços
