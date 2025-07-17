@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="483c0007-762a-4a98-9c03-ba1eb313796d" name="Changes" comment="05">
+    <list default="true" id="483c0007-762a-4a98-9c03-ba1eb313796d" name="Changes" comment="06">
+      <change afterPath="$PROJECT_DIR$/OOP/pratica002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/pratica003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/pratica004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praticando/Textos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Praticando/Textos.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Praticando/ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Praticando/ex002.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +48,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.caixa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pratica001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.praticar.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Ex001.executor": "Run",
+    "Python.caixa.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.pratica001.executor": "Run",
+    "Python.pratica002.executor": "Run",
+    "Python.pratica003.executor": "Run",
+    "Python.pratica004.executor": "Run",
+    "Python.praticar.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Jhowzera\PycharmProjects\CursoemVideo\Praticas-Python\Desafios\PDFs" />
@@ -133,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752448510599</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="06">
+      <option name="closed" value="true" />
+      <created>1752542488700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752542488700</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -142,6 +154,7 @@
     <MESSAGE value="03" />
     <MESSAGE value="04" />
     <MESSAGE value="05" />
-    <option name="LAST_COMMIT_MESSAGE" value="05" />
+    <MESSAGE value="06" />
+    <option name="LAST_COMMIT_MESSAGE" value="06" />
   </component>
 </project>
